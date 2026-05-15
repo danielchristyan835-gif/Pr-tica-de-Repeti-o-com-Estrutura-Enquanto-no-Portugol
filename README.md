@@ -1,1 +1,0 @@
-# Pr-tica-de-Repeti-o-com-Estrutura-Enquanto-no-Portugol
